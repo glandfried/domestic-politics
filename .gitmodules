@@ -1,0 +1,6 @@
+[submodule "aux/images"]
+	path = aux/images
+	url = git@github.com:glandfried/images.git
+[submodule "aux/biblio"]
+	path = aux/biblio
+	url = git@github.com:glandfried/biblio.git
